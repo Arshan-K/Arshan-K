@@ -1,114 +1,130 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500">
+<!-- New Top Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400" alt="Developer thinking and coding">
+</p>
 
-  # Arshan-K
-  ### Full Stack Developer | Ruby on Rails Specialist | React Enthusiast
+<h1 align="center">Hey there, I'm Arshan 👋</h1>
+<h3 align="center">🚀 Full Stack Developer | 🛠 Ruby on Rails Specialist | ⚛️ React Enthusiast</h3>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshan-khan-61a270294)](https://www.linkedin.com/in/arshan-khan-61a270294)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:arsh.kcode@gmail.com)](mailto:arsh.kcode@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arshan-khan-61a270294" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arsh.kcode@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&background=FFFFFF00&width=435&lines=Crafting+Clean+Scalable+Apps;Full+Stack+Engineering+Done+Right;Turning+Coffee+into+Code+Daily" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Crafting+Clean+Scalable+Apps;Full+Stack+Engineering+Done+Right;Turning+Coffee+into+Code+Daily" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
+<img align="right" alt="Animated Developer at Work" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
 
-Hi! I'm **Arshan**, a passionate full-stack developer focused on building elegant, efficient, and scalable software solutions using Ruby on Rails, React, and modern web technologies.
+Hi, I'm **Arshan** – a dedicated full-stack engineer who blends clean code with scalable architecture. I thrive on solving tough problems, building sleek UIs, and automating workflows with Ruby on Rails, React, and a range of modern web tools.
 
-- 🚀 Specializing in full-stack Ruby on Rails & React development
-- 💡 Obsessed with clean, maintainable, and testable code
-- 🔁 Agile and TDD practitioner with real-world delivery experience
-- 📦 Focused on backend architecture, APIs, and DevOps best practices
-- ☕ Forever fueled by espresso & open-source contributions
+- 🧰 Full-stack development with a backend-first mindset  
+- 🧪 Love for writing testable and maintainable code (RSpec, TDD)  
+- 🔌 Passionate about system architecture, API integrations, and DevOps  
+- ⚡ Efficiency nut — from performance tuning to tooling  
+- 🧠 Always learning, always sharing — coffee helps ☕  
+
+> "Code is not just syntax — it's empathy, clarity, and vision turned into logic."
 
 <details>
-<summary>🌱 Currently Exploring</summary>
+<summary>🌱 Currently Leveling Up In</summary>
 
-- Advanced ActiveRecord optimization patterns
-- Scaling React apps with hooks and atomic state
-- Integrating Docker-based CI/CD pipelines
-- Designing PostgreSQL schemas for performance
+- ⚙️ ActiveRecord query optimization  
+- ⚛️ Atomic and scalable React patterns  
+- 🐳 Docker + GitHub Actions for CI/CD  
+- 🧩 Indexing and Postgres performance tuning  
 </details>
 
 ---
 
-## 🛠 Tech Arsenal
+## 🚀 Tech Stack
 
-<div align="center">
-
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,react,js,nodejs,postgres,docker,git,github,tailwind,bootstrap,figma,postman" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Featured Projects
 
-### 🛍️ E-commerce Platform (Rails + React)
+### 🛒 E-commerce Platform — *Rails + React*
 
-A modern, full-featured online marketplace:
+> Modern online store with end-to-end features:
 
-- 🔐 Secure Devise-based user authentication
-- 🔎 Product filtering with React hooks
-- 🛒 Dynamic cart and payment integration
-- 📦 Admin dashboard with order management
-
----
-
-### 💬 Real-time Chat App (Rails + WebSockets)
-
-A real-time messaging app built with Rails ActionCable:
-
-- ⚡ Real-time updates via WebSockets
-- 🟢 Online user indicators
-- 🔍 Message search and thread management
-- 📱 Responsive across all devices
+- 🔐 Devise-based authentication  
+- 🛍 React filtering & product search  
+- 💳 Payment & checkout workflows  
+- 📊 Admin dashboard for orders/inventory
 
 ---
 
-### 🌦 Weather Dashboard (React + API)
+### 🧘‍♀️ HealthCare App — *Real-Time Rails + React*
 
-A sleek React weather app consuming OpenWeatherMap API:
+> A full-stack exercise & diet platform:
 
-- 🌍 Geo-based auto-location weather fetch
-- 📈 Graphs and charts using Chart.js
-- 💡 Theme switch and mobile optimizations
-
----
-
-## 💼 Core Competencies
-
-<div align="center">
-
-![](https://img.shields.io/badge/Full%20Stack%20Development-brightgreen?style=for-the-badge)
-![](https://img.shields.io/badge/API%20Design%20%26%20Integration-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Database%20Architecture-purple?style=for-the-badge)
-![](https://img.shields.io/badge/CI%2FCD%20Pipelines-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Agile%20Workflows-blueviolet?style=for-the-badge)
-
-</div>
+- 🧠 Live data via WebSockets  
+- 🔎 Health search and recommendations  
+- 💬 Real-time interactions & chat  
+- 📱 Fully responsive design
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <p><em>I'm always open to collaborating on impactful, user-focused web projects. Let's build something extraordinary.</em></p>
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=Arshan-K.Arshan-K)
-</div>
+### 🌤 Weather Dashboard — *React + OpenWeather API*
+
+> Lightweight and interactive weather app:
+
+- 📍 Auto-fetch by geolocation  
+- 📈 Dynamic graphs using Chart.js  
+- 🌗 Theme switch (dark/light)  
+- 📱 Mobile-first design
+
+---
+
+## 🧠 Core Strengths
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Design%20%26%20Integration-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Architecture-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile%20Workflows-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshan-K&show_icons=true&theme=radical&border_radius=10" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshan-K&theme=radical&border_radius=10" width="47%" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="mailto:arsh.kcode@gmail.com"><img src="https://img.shields.io/badge/Email-arsh.kcode@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arshan-khan-61a270294"><img src="https://img.shields.io/badge/LinkedIn-ArshanK-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <br />
+  <em>Open to collaboration, learning, and building amazing things together. Let’s connect!</em>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Arshan-K.Arshan-K" />
+</p>
